@@ -19,4 +19,4 @@
 // // Hiển thị kết quả tổng ra màn hình
 // console.log("Tổng của các phần tử trong mảng là:", sum);
 
-
+console.log 
